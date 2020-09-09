@@ -1,0 +1,30 @@
+Title
+#####
+New York City Census Data
+
+Subtitle
+#####
+Demographic, Economic, and Location Data for Census Tracts in NYC
+
+Context
+#####
+There are a number of Kaggle datasets that provide spatial data around New York City. For many of these, it may be quite interesting to relate the data to the demographic and economic characteristics of nearby neighborhoods. This data set may allow for making these comparisons without too much difficulty.
+Exploring the data and making maps could be quite interesting as well.
+
+Content
+#####
+
+The United States Census is conducted every decade as a means to collect precise, necessary information on the national population for a wide variety of public and private uses. The last one was performed in 2010 and showed the total US population had grown to 308,745,538. For the purposes of collecting this data the country is divided into areas known as Census Tracts which are listed by 11-digit codes and whose borders are typically designed to enclose several thousand citizens, although in practice this can vary wildly since every part of the US, no matter how depopulated, must be covered by one of these tracts. This is a complex and costly undertaking which relies heavily on large numbers of volunteers and whose findings can have great bearing on public policy. It is a vital source of data for academics, civil servants, politicians, businesses, journalists and private citizens alike.
+
+
+### Child Poverty: Calculation and Significance
+
+Child Poverty is a recent addition to the United States Census that was introduced in 2000. The American Community Survey publishes revised estimates for census data on a yearly basis along with more accurate 5-year estimates based on a combination of new public data and their own predictive methodology. Child poverty in the US is measured as the percentage of children living in households whose yearly income is below the Poverty threshold. This is calculated by the Census Bureau whose methodology can be examined from their website.
+
+From the Bureau's website:
+
+    ... the Census Bureau uses a set of money income thresholds that vary by family size and composition to determine who is in poverty. If a family's total income is less than the family's threshold, then that family and every individual in it is considered in poverty. The official poverty thresholds do not vary geographically, but they are updated for inflation using the Consumer Price Index (CPI-U). The official poverty definition uses money income before taxes and does not include capital gains or noncash benefits (such as public housing, Medicaid, and food stamps).
+
+Child Poverty has been widely implicated as being strongly influential on a child's future academic and professional achievement, physical and mental health, social mobility and propensity toward criminal behaviour. It is a valuable metric for economists and sociologists and has become a highly pertinent issue for policy-makers.
+
+

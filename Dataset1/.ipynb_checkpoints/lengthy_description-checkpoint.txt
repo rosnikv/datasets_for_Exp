@@ -1,0 +1,28 @@
+Title
+#####
+New York City Census Data
+
+Subtitle
+#####
+Demographic, Economic, and Location Data for Census Tracts in NYC
+
+Context
+#####
+There are a number of Kaggle datasets that provide spatial data around New York City. For many of these, it may be quite interesting to relate the data to the demographic and economic characteristics of nearby neighborhoods. This data set may allow for making these comparisons without too much difficulty.
+Exploring the data and making maps could be quite interesting as well.
+
+Content
+#####
+This dataset contains two CSV files:
+
+nyccensustracts.csv
+
+This file contains a selection of census data taken from the ACS DP03 and DP05 tables. Things like total population, racial/ethnic demographic information, employment and commuting characteristics, and more are contained here. There is a great deal of additional data in the raw tables retrieved from the US Census Bureau website, so I could easily add more fields if there is enough interest.
+
+The publisher obtained data for individual census tracts, which typically contain several thousand residents.
+
+censusblockloc.csv
+
+For this file, publisher used an online FCC census block lookup tool to retrieve the census block code for a 200 x 200 grid containing New York City and a bit of the surrounding area. This file contains the coordinates and associated census block codes along with the state and country names to make things a bit more readable to users.
+
+Each census tract is split into a number of blocks, so one must extract the census tract code from the block code.
