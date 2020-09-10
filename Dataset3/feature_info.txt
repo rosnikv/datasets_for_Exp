@@ -1,0 +1,33 @@
+Feature Information
+#####
+
+#SNo - Serial Number
+ObservationDate - Observation date in mm/dd/yyyy
+Province/State
+Country/Region
+Last Update - Last update date time in UTC
+#Confirmed - Cumulative number of confirmed cases
+#Deaths - Cumulative number of deaths cases
+#Recovered - Cumulative number of recovered cases
+
+#ID
+age
+sex
+city
+province
+country
+wuhan(0)_not_wuhan(1)
+latitude
+longitude
+geo_resolution
+
+#id
+case_in_country
+reporting date
+summary
+location
+country
+gender
+age 
+symptom_onset - date indicates beginning of symptom
+
